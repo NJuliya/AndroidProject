@@ -12,7 +12,7 @@ import android.widget.EditText;
 public class PhCollageActivity extends Activity {
 
     private EditText mLogin;
-    private String act = "1468871696.81f38d6.c77b07edee8146b8a22ab8b95db49005";
+    private String act = "key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
