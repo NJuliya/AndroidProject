@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photocollage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photopicker">Photocollage</string>
+    <string name="title_activity_my_ph_collage">Photocollage</string>
+    <string name="shablon1">2фото</string>
+    <string name="shablon2">3фото</string>
+    <string name="shablon3">4фото</string>
+    <string name="butCollage">Давай коллаж</string>
+    <string name="butOk">Ok</string>
+    <string name="butSend">Отправить</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
