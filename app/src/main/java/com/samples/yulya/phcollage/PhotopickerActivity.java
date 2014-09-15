@@ -61,9 +61,9 @@ public class PhotopickerActivity extends FragmentActivity {
         act = myIntent.getStringExtra("ac");
         url=new ArrayList <String>();
 
-        frag1 = new Fragment1();
-        frag2 = new Fragment2();
-        frag3 = new Fragment3();
+        frag1 = new FragT();
+        frag2 = new FragTh();
+        frag3 = new FragF();
 
         imageLoader = ImageLoader.getInstance();
         File cacheDir = getApplicationContext().getCacheDir();
